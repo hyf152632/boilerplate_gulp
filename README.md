@@ -2,7 +2,7 @@
 这是一个基于gulp的前端自动化脚手架工具。
 
 使用：
-npm install
+npm install    
 npm start
 
 功能：
